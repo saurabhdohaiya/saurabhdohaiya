@@ -77,6 +77,6 @@
 
 ### 🏆 Recent Projects:
 
-- **Zesty**: A full-stack food ordering app with MongoDB, Express, React, and NodeJS. [GitHub](https://github.com/your-repo-link)
-- **CryptoClock**: Cryptocurrency tracking app using React, Firebase, and ChartJS. [GitHub](https://github.com/your-repo-link)
-- **ChatBytes**: Real-time chat app using React, Node.js, and Socket.io. [GitHub](https://github.com/your-repo-link)
+- **Zesty**: A full-stack food ordering app with MongoDB, Express, React, and NodeJS. [GitHub](https://github.com/saurabhdohaiya/mern-food-ordering-app-frontend)
+- **CryptoClock**: Cryptocurrency tracking app using React, Firebase, and ChartJS. [GitHub](https://github.com/saurabhdohaiya/crypto-clock)
+- **ChatBytes**: Real-time chat app using React, Node.js, and Socket.io. [GitHub](https://github.com/saurabhdohaiya/chatByte)
