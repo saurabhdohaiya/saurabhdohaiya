@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhdohaiya&theme=radical&hide_border=true" alt="saurabh's github streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhdohaiya&theme=radical&hide_border=true" alt="saurabh's github streak" width="96%" />
 </p>
 
 ---
