@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋, I'm Saurabh Dohaiya</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<div align="right">
-  <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="codingGif" width="300"/>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- Coding GIF -->
+  <div style="flex: 1; padding-right: 20px;">
+    <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="codingGif" width="300" />
+  </div>
+
+  <!-- About Me Section -->
+  <div style="flex: 2;">
+    <h2>👨‍💻 About Me:</h2>
+    <ul>
+      <li>🔭 I’m currently working on <strong><a href="https://github.com/your-repo-link">Zesty</a></strong></li>
+      <li>🌱 I’m currently learning <strong>AWS and Docker</strong></li>
+      <li>👨‍💻 All of my projects are available at <strong><a href="https://saurabh-dohaiya-portfolio-ujio.vercel.app/">My Portfolio</a></strong></li>
+      <li>💬 Ask me about <strong>React.js, Node.js, Express.js, Angular, MongoDB</strong></li>
+      <li>📫 How to reach me: <strong>career.saurabhdohaiya@gmail.com</strong></li>
+      <li>📄 Know about my experiences: <strong><a href="https://drive.google.com/file/d/1GL8hsvLlsGmwjdt9YlGygMwJ5ESB2Rbl/view">My Resume</a></strong></li>
+      <li>⚡ Fun fact: <strong>I think I can write bug-free code! 😄</strong></li>
+    </ul>
+  </div>
 </div>
-
----
-
-### 👨‍💻 About Me:
-
-- 🔭 I’m currently working on **[Zesty](https://github.com/your-repo-link)**
-- 🌱 I’m currently learning **AWS and Docker**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://saurabh-dohaiya-portfolio-ujio.vercel.app/)
-- 💬 Ask me about **React.js, Node.js, Express.js, Angular, MongoDB**
-- 📫 How to reach me: **career.saurabhdohaiya@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1GL8hsvLlsGmwjdt9YlGygMwJ5ESB2Rbl/view)
-- ⚡ Fun fact: **I think I can write bug-free code! 😄**
 
 ---
 
