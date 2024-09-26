@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-direction: row">
   <!-- About Me Section -->
-  <div style="flex: 2;">
+  <div style="flex: 1;">
     <h2>👨‍💻 About Me:</h2>
     <ul>
       <li>🔭 I’m currently working on <strong><a href="https://github.com/your-repo-link">Zesty</a></strong></li>
