@@ -10,7 +10,7 @@
   <div style="flex: 1;">
     <h2>👨‍💻 About Me:</h2>
     <ul>
-      <li>🔭 I’m currently working as SDE Intern at Vance <strong><a href="(https://www.vance.tech/)">Vance</a></strong></li>
+      <li>🔭 I’m currently working as SDE Intern at Vance <strong><a href="[https://www.vance.tech/]">Vance</a></strong></li>
       <li>🌱 I’m currently learning <strong>AWS and Docker</strong></li>
       <li>👨‍💻 All of my projects are available at <strong><a href="https://saurabh-dohaiya-portfolio-ujio.vercel.app/">My Portfolio</a></strong></li>
       <li>💬 Ask me about <strong>React.js, Node.js, Express.js, Angular, MongoDB</strong></li>
